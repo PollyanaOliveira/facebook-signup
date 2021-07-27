@@ -4,9 +4,9 @@
 
 ## Desenvolvido por
 
-@maria-baeta
+@[maria-baeta](https://github.com/maria-baeta)
 <br>
-@PollyanaOliveira
+@[PollyanaOliveira](https://github.com/PollyanaOliveira)
 
 
 ## Objetivos do Projeto
